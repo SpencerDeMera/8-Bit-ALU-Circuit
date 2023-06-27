@@ -12,7 +12,7 @@ A more in depth discription of the project, its design, and visuals of both the 
 
 ## Tool & Technologies Used
   ### Logisim Evolution
-    - Available @ https://github.com/logisim-evolution/logisim-evolution
+   - Available @ https://github.com/logisim-evolution/logisim-evolution
   ### Tinkercad Online
-    - Basic Design Available @ https://www.tinkercad.com/things/fBWqyhTFcTU?sharecode=taxdy-dLhIeBuWkakr4oPf1oDjy2pcdmhCIEAFVOEmo
+  - Basic Design Available @ https://www.tinkercad.com/things/fBWqyhTFcTU?sharecode=taxdy-dLhIeBuWkakr4oPf1oDjy2pcdmhCIEAFVOEmo
   ### Digital Computer Electronics By Dr. Albert Paul Malvino
