@@ -11,6 +11,8 @@ The physical portion has limitations in that it does not contain various functio
 A more in depth discription of the project, its design, and visuals of both the software and hardware based implementations can be foudn in the attached PDF document.
 
 ## Tool & Technologies Used
-- Logisim Evolution
-- Tinkercad Online
-- Digital Computer Electronics By Dr. Albert Paul Malvino
+  ### Logisim Evolution
+    - Available @ https://github.com/logisim-evolution/logisim-evolution
+  ### Tinkercad Online
+    - Basic Design Available @ https://www.tinkercad.com/things/fBWqyhTFcTU?sharecode=taxdy-dLhIeBuWkakr4oPf1oDjy2pcdmhCIEAFVOEmo
+  ### Digital Computer Electronics By Dr. Albert Paul Malvino
