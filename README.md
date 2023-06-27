@@ -7,6 +7,8 @@ I additionally developed a simplified second circuit in hardware with breadboard
 
 The physical portion has limitations in that it does not contain various functions present in my digital design (such as bitwise logic operations, op error flags, etc.).
 
+The software portion of this project can be found in the .circ file but must be opened in Logisim Evolution or a similar application that can interpret .circ files.
+
 ## Depth
 A more in depth discription of the project, its design, and visuals of both the software and hardware based implementations can be foudn in the attached PDF document.
 
